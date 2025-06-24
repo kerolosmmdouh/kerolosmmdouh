@@ -19,8 +19,9 @@
 
 ### 🤝 Let’s Connect!
 I’m open to internship opportunities, collaboration, or mentorship!  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerolos-mmdouh/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kerolosmmdou3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kerolosmmdouh3@gmail.com)
 
 ---
 
