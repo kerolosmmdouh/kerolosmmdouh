@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm **Kerlos Mamdouh Boulos**  
+## 👋 Hi there, I'm **Kerolos Mamdouh Boles**  
 🎓 Business Information Systems student at Assiut University  
 💻 Aspiring Full Stack .NET Developer | Passionate about clean code and real-world problem solving
 
@@ -19,8 +19,8 @@
 
 ### 🤝 Let’s Connect!
 I’m open to internship opportunities, collaboration, or mentorship!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/https://www.linkedin.com/in/kerolos-mmdouh/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kerolosmmdouh3L@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerolos-mmdouh/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kerolosmmdou3@gmail.com)
 
 ---
 
