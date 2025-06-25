@@ -21,15 +21,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 <!-- لتكبير الشارات كلها أو Java فقط -->
-<style>
-  img.shield {
-    height: 36px; /* الحجم الأصلي غالبًا 20-24px، زودها أكبر */
-  }
-  /* أو تكبير Java فقط */
-  img.java-shield {
-    height: 36px;
-  }
-</style>
+
 
 <!-- ثم أضف class للشارة الخاصة بجافا -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white){.java-shield}
