@@ -30,7 +30,7 @@
 ---
 
 ### 📂 Projects
-- 🎓 **Student Management System** – CRUD system using Entity Framework & ASP.NET MVC  
+- 🎓 **CollegePro Sytems** – CRUD system using Entity Framework & ASP.NET MVC  
 - 🛒 **E-Commerce App (FootCap)** – Online shoe store with full-stack structure and responsive design  
 - 📊 **Dashboard Interface** – Frontend with HTML/CSS/JS + .NET backend for data display
 
